@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need it to do it?
+I create a tracking service for my files. I need to do it because I want to be able to return to a previous state of my file
+How is the stagin area difrferent from the working directory and the repository? What value do you think it offers?
+Its different because has changes that will added in next commit.
+Organize better commits, grouping them by logic
