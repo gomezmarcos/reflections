@@ -3,3 +3,5 @@ I create a tracking service for my files. I need to do it because I want to be a
 How is the stagin area difrferent from the working directory and the repository? What value do you think it offers?
 Its different because has changes that will added in next commit.
 Organize better commits, grouping them by logic
+How can you use the staging area to make sure you have one commit per logical change?
+adding files to it and then checking differences with my working space.
