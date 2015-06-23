@@ -5,3 +5,9 @@ Its different because has changes that will added in next commit.
 Organize better commits, grouping them by logic
 How can you use the staging area to make sure you have one commit per logical change?
 adding files to it and then checking differences with my working space.
+How do the diagrams help you visualize the branch structure?
+They tell when a branch is created, who is the branch's father and shows commits that are not in a branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagrams the way we do?
+-All the commits are accesible from the new merged branch. Changes in both last commit branches are in one branch now.
+-Because all commits are accesible from the new merged branch.
